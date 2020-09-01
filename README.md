@@ -1,0 +1,1 @@
+# xfce-display-profile-switcher
