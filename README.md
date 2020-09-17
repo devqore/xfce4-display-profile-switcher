@@ -19,4 +19,4 @@ optional arguments:
 Requirements
 ------------
 
-Python 3.
+Python 3 and xfconf-query in the PATH.
